@@ -1,5 +1,5 @@
 # Project One
-Creating an automated ELK stack deployment over a network with two web servers.
+Creating an automated ELK stack deployment process over a network with two web servers.
 
 ## Automated ELK Stack Deployment
 
