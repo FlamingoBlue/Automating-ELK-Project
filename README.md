@@ -1,5 +1,6 @@
 # FirstCloud-Project
-FirstCloud uses containers, VMs and ELK Stack to create a secure network of two web servers.
+FirstCloud uses Network Security Groups, containers, VMs and ELK Stack to create a secure network of two web servers. 
+Created with Azure.
 
 ## Automated ELK Stack Deployment
 
