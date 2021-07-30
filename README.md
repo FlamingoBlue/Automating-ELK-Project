@@ -1,5 +1,5 @@
 # FirstCloud-Project
-My first cloud project in cybersecurity.
+FirstCloud uses containers, VMs and ELK Stack to create a secure network of two web servers.
 
 ## Automated ELK Stack Deployment
 
