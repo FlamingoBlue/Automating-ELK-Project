@@ -88,7 +88,7 @@ These Beats allow us to collect the following information from each machine:
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
 SSH into the control node and follow the steps below:
-- Copy the install-elk.yml file to /etc/ansible/.
+- Copy the [install-elk.yml](https://github.com/kjo024/FirstCloud-Project/blob/main/Ansible/install-elk.yml) file to `/etc/ansible/`.
 - Update the install-elk.yml file to include the group name 'elk' under hosts
 - Run the playbook, and navigate to http://52.183.76.1:5601/app/kibana to check that the installation worked as expected.
 
