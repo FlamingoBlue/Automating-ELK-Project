@@ -76,8 +76,8 @@ This ELK server is configured to monitor the following machines:
 - Web-2: 10.0.0.6
 
 We have installed the following Beats on these machines:
-- Filebeat [playbook](https://github.com/kjo024/FirstCloud-Project/blob/main/Ansible/filebeat-playbook.yml)
-- Metricbeat [playbook](https://github.com/kjo024/FirstCloud-Project/blob/main/Ansible/metricbeat-playbook.yml)
+- Filebeat ([playbook](https://github.com/kjo024/FirstCloud-Project/blob/main/Ansible/filebeat-playbook.yml))
+- Metricbeat ([playbook](https://github.com/kjo024/FirstCloud-Project/blob/main/Ansible/metricbeat-playbook.yml))
 
 These Beats allow us to collect the following information from each machine:
 - Filebeat monitors log data which we can use to monitor activity in the web servers.
