@@ -43,7 +43,7 @@ Only the Jump Box machine can accept connections from the Internet. Access to th
 - [Public IP]
 
 Machines within the network can only be accessed by ansible.
-- Ansible container: 10.0.0.4
+- Jump Box: 10.0.0.4
 
 A summary of the access policies in place can be found in the table below.
 
