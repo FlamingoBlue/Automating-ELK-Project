@@ -56,7 +56,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because a single playbook can be made to run across multiple machines at once -- maximizing efficiency.
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because a single playbook can be made to run across multiple machines at once maximizing efficiency.
 
 The playbook implements the following tasks:
 - Increase memory usage
