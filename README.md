@@ -67,7 +67,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Images/sebp.png)
+![sebp.png](https://github.com/kjo024/FirstCloud-Project/blob/main/Images/sebp.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
