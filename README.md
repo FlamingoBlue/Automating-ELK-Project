@@ -90,3 +90,5 @@ SSH into the control node and follow the steps below:
 - Copy the install-elk.yml file to /etc/ansible/.
 - Update the install-elk.yml file to include the group name 'elk' under hosts
 - Run the playbook, and navigate to http://52.183.76.1:5601/app/kibana to check that the installation worked as expected.
+
+![Kibana-Launch.png](https://github.com/kjo024/FirstCloud-Project/blob/main/Images/Kibana-Launch.png)
