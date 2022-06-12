@@ -1,7 +1,5 @@
-# Project One
+# Automated ELK Stack Deployment
 Creating an automated ELK stack deployment process over a network with two web servers.
-
-## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 
